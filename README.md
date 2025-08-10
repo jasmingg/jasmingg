@@ -1,8 +1,8 @@
 ## Hi, I'm Jasmin 👋
 - ☕ Running on black coffee and clean commit messages
 ----
-I'm currently a sophomore majoring in CS at GMU (In Northern VA which is basically DC 😉)
-My current goal is to earn an internship for Summer 2026
+I'm currently a sophomore majoring in CS at GMU (In Northern VA which is basically D.C. 😎)
+My current goal: Create a front-end + visualizer for my Housing Data Back-end
 
 ## 🛠 Projects
 Here are some projects I'm proud of:  
