@@ -2,6 +2,7 @@
 - ☕ Running on black coffee and clean commit messages
 ----
 I'm currently a sophomore majoring in CS at GMU (In Northern VA which is basically D.C. 😎)
+
 My current goal: Create a front-end + visualizer for my Housing Data Back-end
 
 ## 🛠 Projects
