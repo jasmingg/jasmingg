@@ -1,14 +1,10 @@
 ## Hi, I'm Jasmin 👋
-- ☕ Running on black coffee and clean commit messages
-----
-I'm currently a sophomore majoring in CS at GMU (In Northern VA which is basically D.C. 😎)
-
-My current goal: Create a front-end + visualizer for my Housing Data Back-end
+I'm currently a sophomore majoring in CS at GMU (Northern VA )
 
 ## 🛠 Projects
-Here are some projects I'm proud of:  
+Here are some projects I'm proud of: 
+- **[Housing Affordability Visualizer](https://github.com/jasmingg/housingdata-frontend)** – Interactive data visualization tool built with Java (Spring Boot) + PostgreSQL ⚡ [link for the Live demo](https://housingdata.netlify.app/)
 - **[MindSpace](https://github.com/jasmingg/MindSpace)** – A journaling and mood tracking app with AWS serverless backend ⚡ [Live demo](https://mindspace-jg.netlify.app/) available — Work in progress
-- **[Housing Affordability Visualizer](https://github.com/jasmingg/housingdata-backend)** – Interactive data visualization tool built with Java (Spring Boot) + PostgreSQL 🚧 Live URL coming soon
 - **[Dish Genie](https://github.com/jasmingg/dish_genie)** – AI-powered recipe generator utilizing a Hugging-face API (Mistral)
 
 ---
