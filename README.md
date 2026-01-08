@@ -1,5 +1,5 @@
 ## Hi, I'm Jasmin 👋
-I'm currently a sophomore majoring in CS at GMU (Northern VA)
+I'm currently a junior majoring in CS at GMU (Northern VA)
 
 ## 🛠 Projects
 Here are some projects I'm proud of: 
