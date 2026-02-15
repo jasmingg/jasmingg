@@ -1,6 +1,8 @@
 ## Hi, I'm Jasmin 👋
 I'm currently a junior majoring in CS at GMU (Northern VA)
 
+You can connect with me on LinkedIn [over here!](https://www.linkedin.com/in/jasmin-giri/)
+
 ## 🛠 Projects
 Here are some projects I'm proud of: 
 - **[Regulint](https://github.com/jasmingg/regulint)** – File-scanning API & CLI for catching PII (e.g., SSNs, emails). 🚧 *In progress*
